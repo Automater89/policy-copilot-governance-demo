@@ -1,6 +1,6 @@
 # Policy Copilot Governance Demo
 
-**Owner:** Wes Shelton | [LinkedIn](https://www.linkedin.com/in/wallace-shelton-559b0364) | [Agent Showcase](https://automater89.github.io/Agent-Showcase/)
+**Owner:** Wes Shelton | [LinkedIn](https://www.linkedin.com/in/wallace-shelton-559b0364) | [Portfolio](https://automater89.github.io/Wes-Shelton/)
 
 ## What This Demonstrates
 
